@@ -23,6 +23,7 @@ public class Cuadrante {
         }else{
             mensaje="En el Centro";
         }
+         System.out.println(mensaje+" "+";)");
             
         System.out.println(mensaje);
         
